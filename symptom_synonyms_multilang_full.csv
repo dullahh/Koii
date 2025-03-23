@@ -1,0 +1,276 @@
+input_term,mapped_symptom,language
+rash,skin_rash,en
+fever,high_fever,en
+vomiting,vomiting,en
+headache,headache,en
+abdominal pain,abdominal_pain,en
+nausea,nausea,en
+diarrhea,diarrhoea,en
+cough,cough,en
+cold,runny_nose,en
+cold,chills,en
+cold,throat_irritation,en
+طفح جلدي,skin_rash,ar
+حمى,high_fever,ar
+قيء,vomiting,ar
+صداع,headache,ar
+آلام في البطن,abdominal_pain,ar
+غثيان,nausea,ar
+إسهال,diarrhoea,ar
+سعال,cough,ar
+زكام,runny_nose,ar
+قشعريرة,chills,ar
+التهاب الحلق,throat_irritation,ar
+cold,continuous_sneezing,en
+fever,mild_fever,en
+sore throat,throat_irritation,en
+sore throat,patches_in_throat,en
+vomit,vomiting,en
+nauseated,nausea,en
+tiredness,fatigue,en
+tiredness,lethargy,en
+weight gain,weight_gain,en
+weight loss,weight_loss,en
+painful urination,burning_micturition,en
+urination pain,burning_micturition,en
+urine pain,burning_micturition,en
+stomach pain,abdominal_pain,en
+stomach pain,stomach_pain,en
+belly pain,abdominal_pain,en
+body ache,muscle_pain,en
+body ache,joint_pain,en
+body ache,back_pain,en
+head pain,headache,en
+eye pain,pain_behind_the_eyes,en
+runny nose,runny_nose,en
+sneezing,continuous_sneezing,en
+dry lips,drying_and_tingling_lips,en
+itchy skin,itching,en
+joint stiffness,movement_stiffness,en
+joint stiffness,swelling_joints,en
+muscle weakness,muscle_weakness,en
+irregular heartbeat,fast_heart_rate,en
+yellow skin,yellowish_skin,en
+yellow eyes,yellowing_of_eyes,en
+fatigued,fatigue,en
+confused,altered_sensorium,en
+dizzy,dizziness,en
+depressed,depression,en
+bloody stool,bloody_stool,en
+constipated,constipation,en
+burning pee,burning_micturition,en
+loss of appetite,loss_of_appetite,en
+no hunger,loss_of_appetite,en
+weight increase,weight_gain,en
+anxious,anxiety,en
+sad,depression,en
+red eyes,redness_of_eyes,en
+nosebleed,bloody_stool,en
+tingly lips,drying_and_tingling_lips,en
+tingling lips,drying_and_tingling_lips,en
+itch,itching,en
+itchiness,itching,en
+cramps,cramps,en
+abdominal cramps,abdominal_pain,en
+abdominal cramps,cramps,en
+confusion,altered_sensorium,en
+dehydrated,dehydration,en
+swollen stomach,swelling_of_stomach,en
+pain when pooping,pain_during_bowel_movements,en
+anal pain,pain_in_anal_region,en
+urine smell,foul_smell_of_urine,en
+bloating,distention_of_abdomen,en
+hard to balance,loss_of_balance,en
+hard to balance,unsteadiness,en
+limb pain,weakness_in_limbs,en
+joint pain,joint_pain,en
+muscle pain,muscle_pain,en
+neck stiffness,stiff_neck,en
+difficulty urinating,burning_micturition,en
+difficulty walking,loss_of_balance,en
+frequent urination,continuous_feel_of_urine,en
+gas,passage_of_gases,en
+no smell,loss_of_smell,en
+bad smell,foul_smell_of_urine,en
+face swelling,puffy_face_and_eyes,en
+sweating,sweating,en
+heart racing,fast_heart_rate,en
+lightheaded,dizziness,en
+flu,chills,en
+flu,runny_nose,en
+flu,throat_irritation,en
+flu,high_fever,en
+flu,headache,en
+ارتفاع في درجة الحرارة,high_fever,ar
+تعب,fatigue,ar
+خمول,lethargy,ar
+ألم في الرأس,headache,ar
+دوخة,dizziness,ar
+كحة,cough,ar
+إمساك,constipation,ar
+ألم في المعدة,abdominal_pain,ar
+ألم في البطن,abdominal_pain,ar
+ألم عضلي,muscle_pain,ar
+تورم في المعدة,swelling_of_stomach,ar
+فقدان الشهية,loss_of_appetite,ar
+ألم عند التبول,burning_micturition,ar
+تعرق,sweating,ar
+بول داكن,dark_urine,ar
+صفراء,yellowish_skin,ar
+عيون صفراء,yellowing_of_eyes,ar
+آلام المفاصل,joint_pain,ar
+خدر,weakness_in_limbs,ar
+دوار,dizziness,ar
+التهاب,patches_in_throat,ar
+حرارة,high_fever,ar
+سخونة,high_fever,ar
+القيء,vomiting,ar
+إرهاق,fatigue,ar
+وجع في الرأس,headache,ar
+احمرار الجلد,skin_rash,ar
+بلغم,phlegm,ar
+التعرق,sweating,ar
+حكة,itching,ar
+إنتفاخ البطن,distention_of_abdomen,ar
+حرقة البول,burning_micturition,ar
+غثيان مستمر,nausea,ar
+تعب شديد,lethargy,ar
+تورم,swelling_of_stomach,ar
+ألم المفاصل,joint_pain,ar
+ألم الظهر,back_pain,ar
+العين حمراء,redness_of_eyes,ar
+خسارة الوزن,weight_loss,ar
+feeling hot,high_fever,en
+hot body,high_fever,en
+throwing up,vomiting,en
+super tired,fatigue,en
+really tired,lethargy,en
+red skin,skin_rash,en
+nauseous,nausea,en
+queasy,nausea,en
+itchy,itching,en
+bloated belly,distention_of_abdomen,en
+painful pee,burning_micturition,en
+sore joints,joint_pain,en
+aching muscles,muscle_pain,en
+pain in back,back_pain,en
+lost appetite,loss_of_appetite,en
+weight drop,weight_loss,en
+сыпь,skin_rash,ru
+лихорадка,high_fever,ru
+лихорадка,mild_fever,ru
+диарея,diarrhoea,ru
+простуда,runny_nose,ru
+простуда,chills,ru
+простуда,throat_irritation,ru
+простуда,continuous_sneezing,ru
+боль в горле,throat_irritation,ru
+боль в горле,patches_in_throat,ru
+рвота,vomiting,ru
+тошнота,nausea,ru
+усталость,fatigue,ru
+усталость,lethargy,ru
+увеличение веса,weight_gain,ru
+потеря веса,weight_loss,ru
+боль при мочеиспускании,burning_micturition,ru
+боль в животе,abdominal_pain,ru
+боль в животе,stomach_pain,ru
+ломота в теле,muscle_pain,ru
+ломота в теле,joint_pain,ru
+ломота в теле,back_pain,ru
+головная боль,headache,ru
+боль в глазах,pain_behind_the_eyes,ru
+насморк,runny_nose,ru
+чихание,continuous_sneezing,ru
+сухие губы,drying_and_tingling_lips,ru
+зуд кожи,itching,ru
+жесткость суставов,movement_stiffness,ru
+жесткость суставов,swelling_joints,ru
+слабость мышц,muscle_weakness,ru
+нерегулярное сердцебиение,fast_heart_rate,ru
+желтая кожа,yellowish_skin,ru
+желтые глаза,yellowing_of_eyes,ru
+спутанность сознания,altered_sensorium,ru
+головокружение,dizziness,ru
+депрессия,depression,ru
+кровавый стул,bloody_stool,ru
+запор,constipation,ru
+зуд,itching,ru
+грипп,chills,ru
+грипп,runny_nose,ru
+грипп,throat_irritation,ru
+грипп,high_fever,ru
+грипп,headache,ru
+nodal skin eruptions,nodal_skin_eruptions,en
+shivering,shivering,en
+acidity,acidity,en
+ulcers on tongue,ulcers_on_tongue,en
+muscle wasting,muscle_wasting,en
+spotting urination,spotting_urination,en
+cold hands and feets,cold_hands_and_feets,en
+mood swings,mood_swings,en
+restlessness,restlessness,en
+irregular sugar level,irregular_sugar_level,en
+sunken eyes,sunken_eyes,en
+breathlessness,breathlessness,en
+indigestion,indigestion,en
+yellow urine,yellow_urine,en
+acute liver failure,acute_liver_failure,en
+fluid overload,fluid_overload,en
+swelled lymph nodes,swelled_lymph_nodes,en
+malaise,malaise,en
+blurred and distorted vision,blurred_and_distorted_vision,en
+sinus pressure,sinus_pressure,en
+congestion,congestion,en
+chest pain,chest_pain,en
+irritation in anus,irritation_in_anus,en
+neck pain,neck_pain,en
+bruising,bruising,en
+obesity,obesity,en
+swollen legs,swollen_legs,en
+swollen blood vessels,swollen_blood_vessels,en
+enlarged thyroid,enlarged_thyroid,en
+brittle nails,brittle_nails,en
+swollen extremeties,swollen_extremeties,en
+excessive hunger,excessive_hunger,en
+extra marital contacts,extra_marital_contacts,en
+slurred speech,slurred_speech,en
+knee pain,knee_pain,en
+hip joint pain,hip_joint_pain,en
+spinning movements,spinning_movements,en
+weakness of one body side,weakness_of_one_body_side,en
+bladder discomfort,bladder_discomfort,en
+internal itching,internal_itching,en
+toxic look (typhos),toxic_look_(typhos),en
+irritability,irritability,en
+red spots over body,red_spots_over_body,en
+belly pain,belly_pain,en
+abnormal menstruation,abnormal_menstruation,en
+dischromic patches,dischromic_patches,en
+watering from eyes,watering_from_eyes,en
+increased appetite,increased_appetite,en
+polyuria,polyuria,en
+family history,family_history,en
+mucoid sputum,mucoid_sputum,en
+rusty sputum,rusty_sputum,en
+lack of concentration,lack_of_concentration,en
+visual disturbances,visual_disturbances,en
+receiving blood transfusion,receiving_blood_transfusion,en
+receiving unsterile injections,receiving_unsterile_injections,en
+coma,coma,en
+stomach bleeding,stomach_bleeding,en
+history of alcohol consumption,history_of_alcohol_consumption,en
+blood in sputum,blood_in_sputum,en
+prominent veins on calf,prominent_veins_on_calf,en
+palpitations,palpitations,en
+painful walking,painful_walking,en
+pus filled pimples,pus_filled_pimples,en
+blackheads,blackheads,en
+scurring,scurring,en
+skin peeling,skin_peeling,en
+silver like dusting,silver_like_dusting,en
+small dents in nails,small_dents_in_nails,en
+inflammatory nails,inflammatory_nails,en
+blister,blister,en
+red sore around nose,red_sore_around_nose,en
+yellow crust ooze,yellow_crust_ooze,en
